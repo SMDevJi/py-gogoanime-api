@@ -6,15 +6,15 @@ This is just a small part time project which I created in my free time and I do 
 ## Table of Contents
 
 - [Installation](#installation)
-  - [Windows & Linux](#Windows-&-Linux)
-  - [Android (Termux)](#Android-(Termux))
+  - [Windows & Linux](#Windows--Linux)
+  - [Android (Termux)](#android-termux))
 - [Routes](#routes)
-  - [Get Recent Episodes](#recent-episodes)
-  - [Get Popular Anime](#popular-anime)
-  - [Get Anime Search](#anime-search)
-  - [Get Anime Movies](#anime-movies)
-  - [Get Anime Details](#anime-details)
-  - [Get Streaming URLs](#streaming-urls)
+  - [Get Recent Episodes](#get-recent-episodes)
+  - [Get Popular Anime](#get-popular-anime)
+  - [Get Anime Search](#get-anime-search)
+  - [Get Anime Movies](#get-anime-movies)
+  - [Get Anime Details](#get-anime-details)
+  - [Get Streaming URLs](#get-streaming-urls)
 
 
 
@@ -278,7 +278,6 @@ All valid values of `genre` parameter
 
 
 </details>
-&nbsp;
 
 #### Sort
 All valid values of `sort` parameter
@@ -293,7 +292,6 @@ All valid values of `sort` parameter
 | `release_date`  |
 
 </details>
-&nbsp;
 
 #### Status
 All valid values of `status` parameter
@@ -307,7 +305,6 @@ All valid values of `status` parameter
 | `Completed`     |
 
 </details>
-&nbsp;
 
 #### Type
 All valid values of `type` parameter
@@ -324,7 +321,6 @@ All valid values of `type` parameter
 | `32`            |  Music  |
 
 </details>
-&nbsp;
 
 #### Language
 All valid values of `language` parameter
@@ -338,7 +334,6 @@ All valid values of `language` parameter
 | `dub`           |
 
 </details>
-&nbsp;
 
 #### Year
 All valid values of `year` parameter
@@ -348,7 +343,6 @@ All valid values of `year` parameter
 `1999` to current year.
 
 </details>
-&nbsp;
 
 #### Season
 All valid values of `season` parameter
@@ -363,7 +357,6 @@ All valid values of `season` parameter
 | `winter`        |
 
 </details>
-&nbsp;
 
 #### Country
 All valid values of `country` parameter
@@ -376,7 +369,7 @@ All valid values of `country` parameter
 | `2`       | Japan   |
 
 </details>
-&nbsp;
+
 
 
 
@@ -447,7 +440,7 @@ Output >>
 
 
 ### Get Anime Details
-Get details about an anime from it's anime ID. You can find the id of the Anime from [search results](#anime-search), [anime movies](#anime-movies),[recent episodes](#recent-episodes) and [popular anime](#popular-anime)
+Get details about an anime from it's anime ID. You can find the id of the Anime from [search results](#get-anime-search), [anime movies](#get-anime-movies),[recent episodes](#get-recent-episodes) and [popular anime](#get-popular-anime)
 
 
 | Parameter  |  Description   |
@@ -491,7 +484,7 @@ Output >>
 
 ### Get Streaming URLs
 
-Get streaming URLs from episode ID. You can get the id of an episode from [anime details](#anime-details), [popular anime](#popular-anime) and [recent episodes](#recent-episodes)
+Get streaming URLs from episode ID. You can get the id of an episode from [anime details](#get-anime-details), [popular anime](#get-popular-anime) and [recent episodes](#get-recent-episodes)
 
 | Parameter      |Description  |
 | -------------- | ----------- |
