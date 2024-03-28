@@ -7,7 +7,7 @@ This is just a small part time project which I created in my free time and I do 
 
 - [Installation](#installation)
   - [Windows & Linux](#Windows--Linux)
-  - [Android (Termux)](#android-termux))
+  - [Android (Termux)](#android-termux)
 - [Routes](#routes)
   - [Get Recent Episodes](#get-recent-episodes)
   - [Get Popular Anime](#get-popular-anime)
@@ -385,7 +385,7 @@ Output >>
 {
   "current_pages": [
     "1",
-    "2
+    "2"
   ], 
   "page_data": [
     {
